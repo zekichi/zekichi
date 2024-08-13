@@ -7,8 +7,8 @@
 
 Contact me!!
 
-LinkedIn: www.linkedin.com/in/ezequiel-quintana
-Mail: equintana779@gmail.com
+- LinkedIn: www.linkedin.com/in/ezequiel-quintana
+- Mail: equintana779@gmail.com
 <!---
 zekichi/zekichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
